@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+  <footer class="py-12 px-6 max-w-2xl mx-auto text-center">
+    <h3 class="text-2xl font-bold text-purple-800 mb-6">Contact & Legal</h3>
+    <div class="space-y-4">
+      <p>📧 Email: hello@yumigo.com</p>
+      <p>📱 Instagram: @YumigoOfficial</p>
+      <p class="text-sm text-gray-500 mt-8"><a href="#" class="underline">Terms & Conditions</a> | <a href="#" class="underline">Privacy Policy</a></p>
+    </div>
+  </footer>
+</body>
+</html>

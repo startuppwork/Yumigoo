@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Join a Group</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+  <section class="py-12 px-4 max-w-md mx-auto">
+    <h2 class="text-3xl font-bold text-center text-purple-800 mb-8">Pick Your Tribe</h2>
+    <div class="space-y-4">
+      <a href="https://tally.so/r/w4ZxqD" class="block bg-pink-500 text-white py-3 px-6 rounded-lg text-center hover:bg-pink-600">
+        🎉 ChillFill
+      </a>
+      <a href="https://tally.so/r/w4ZxqD" class="block bg-blue-500 text-white py-3 px-6 rounded-lg text-center hover:bg-blue-600">
+        📚 SkillHub
+      </a>
+      <a href="https://tally.so/r/w4ZxqD" class="block bg-green-500 text-white py-3 px-6 rounded-lg text-center hover:bg-green-600">
+        ✈️ TripTribe
+      </a>
+      <a href="https://tally.so/r/w4ZxqD" class="block bg-yellow-500 text-white py-3 px-6 rounded-lg text-center hover:bg-yellow-600">
+        🎨 Custom Group
+      </a>
+    </div>
+  </section>
+</body>
+</html>
